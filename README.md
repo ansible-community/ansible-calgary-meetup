@@ -1,12 +1,16 @@
 # Ansible Calgary Meetup
 
-It turns out that organizing and managing a meetup is much easier when involving
-the community.
+## Mission Statement
 
-Ultimately, the attendees know best what they would like to hear about.
+The purpose of this meetup group is to foster community and facilitate connection among Ansible users located in the Calgary, Alberta, Canada area. The intent is to encourage contributions and conversations, as well as provide a number of resources to be used as reference in one's own Ansible journey. As they say, a rising tide lifts all ships and we're hoping you find some helpful tips, peer dialogue, and guidance in this community and repository.
+
+While we aim to have some corporate structure and support, we're setting up these resources to encourage contributions and the organization of meetup events by anyone in the community. ie, not just folks at Red Hat. If you have an idea or topic for a meetup, we'd like you to feel empowered to not just make a suggestion (always welcome) but to also consider running your own meetup event. We'll aim to provide as much guidance and resources here to make this as easy and attainable as we can for anyone interested.
+
+As always, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
-# Presentation topics
+
+## Presentation topics
 
 
 If you would like to suggest and discuss topics for presentations, please look
@@ -15,7 +19,7 @@ through the [issues](https://github.com/ansible-community/ansible-calgary-meetup
 If you'd like to see a presentation about something and it isn't there, feel
 free to create a new issue!
 
-# Submitting a talk
+## Submitting a talk
 
 
 If you'd like to present a talk, create a [GitHub issue](https://github.com/ansible-community/ansible-calgary-meetup/issues/new/choose
@@ -26,7 +30,7 @@ The discussion regarding dates will take place in the GitHub issue
 Otherwise, submissions might be kept for the next meetup.
 
 
-# Contributing
+## Contributing
 
 
 Contributing to the repository is as easy as submitting a [pull request](https://github.com/ansible-community/ansible-calgary-meetup/pulls)!
