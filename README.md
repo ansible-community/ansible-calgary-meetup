@@ -9,6 +9,12 @@ While we aim to have some corporate structure and support, we're setting up thes
 As always, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
+## Folder Structure
+
+* examples - Use case example playbooks for various managed devices
+* presentations - Archive of presentations made at Ansible Calgary Meetups
+* resources - Additional references to help you on your automation journey
+
 
 ## Presentation topics
 
