@@ -9,6 +9,11 @@ While we aim to have some corporate structure and support, we're setting up thes
 As always, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
+Please feel free to contact aludwar@redhat.com with any questions, concerns, comments, ideas, etc.!
+
+
+
+
 ## Folder Structure
 
 * examples - Use case example playbooks for various managed devices
