@@ -13,3 +13,4 @@
 * [Standardized Ansible Developer Environments - OpenShift Dev Spaces](https://developers.redhat.com/learn/openshift/streamline-automation-openshift-dev-spaces-ansible)
 * [Four ways to talk to your manager about Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/4-ways-talk-your-manager-about-ansible-automation-platform)
 * [Getting started with Ansible Lightspeed with IBM watsonx Code Assistant](https://access.redhat.com/articles/7039771)
+* [Tales from the field: A system administrator's guide to IT automation](https://www.redhat.com/rhdc/managed-files/co-system-administrator-automation-ebook-f29297-202107-en.pdf)
